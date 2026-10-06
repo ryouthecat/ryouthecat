@@ -1,7 +1,6 @@
 # About Me
 
-- **Name:** Tran Anh Thi
-- **Nickname:** ryouthecat
+- **Name:** ryouthecat
 - **CTF:** Reverse / Pwn
 - **Contact:** trananhthi072007@gmail.com
 - **Blog:** https://ryouthecat.github.io/
